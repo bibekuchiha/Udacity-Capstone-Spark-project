@@ -18,12 +18,12 @@ This repository contains the results of the Data Science Nanodegree SpThis repos
 ## Installation
   
 The following applications and Python libraries needs to be included in this project:
-    Python
-    Spark
-    Pyspark
-    pandas
-    Matplotlib
-    Seaborn
+   - Python
+   - Spark
+   - Pyspark
+   - pandas
+   - Matplotlib
+   - Seaborn
 
 You would also need to have Jupyter Notebook applications enabled like Anaconda to run and execute.
 ## Project Motivation
